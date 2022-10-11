@@ -1,5 +1,5 @@
-# 👾AR15BOT👾
-BOT WHATSAPP TERMUX ONLY BY ARIS187 ID
+# 👾MR-VinzX👾
+BOT WHATSAPP TERMUX ONLY BY YT Vinz GAME
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -14,14 +14,14 @@ Siapin alat dan bahannya.
 ```
 
 ### Cara Installnya
-Script ini di modifikasi sama saya sendiri Aris187 ID.
+Script ini di modifikasi sama saya sendiri Vinz GAME.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/A187ID/AR15BOT
+> git clone https://github.com/MR-VinzX
 > cd AR15BOT
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
@@ -75,9 +75,9 @@ Jangan ubah ubah info, Hargai Karya orang lain bro
 jangan cuman modal nama doang
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+* [`Youtube Admin`](https://youtube.com/c/VinzGAME)
+* [`Instagram Admin`](https://instagram.com/)
+* [`WhatsApp Admin `](https://wa.me/+6289527818905)
 ## THANKS TO
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
