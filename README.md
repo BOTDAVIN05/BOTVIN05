@@ -68,7 +68,7 @@ Script ini di modifikasi sama saya sendiri Vinz GAME.
 Ket: Aktiv 24 jam
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (ARIS187 ID)
+BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (YT Vinz GAME)
 
 ## WARNING
 Jangan ubah ubah info, Hargai Karya orang lain bro
